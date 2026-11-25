@@ -1,0 +1,361 @@
+country_code,sheet,level,year,sex,value,has_error,source_file
+XA,Enrolment,Pre-primary,2025,Female,51860.0,False,template_XA.xlsx
+XA,Enrolment,Primary,2025,Female,239358.0,False,template_XA.xlsx
+XA,Enrolment,Lower secondary,2025,Female,109401.0,False,template_XA.xlsx
+XA,Enrolment,Upper secondary,2025,Female,77380.0,False,template_XA.xlsx
+XA,Enrolment,Pre-primary,2026,Female,55595.0,False,template_XA.xlsx
+XA,Enrolment,Primary,2026,Female,262495.0,False,template_XA.xlsx
+XA,Enrolment,Lower secondary,2026,Female,116115.0,False,template_XA.xlsx
+XA,Enrolment,Upper secondary,2026,Female,72676.0,False,template_XA.xlsx
+XA,Enrolment,Pre-primary,2025,Male,51509.0,False,template_XA.xlsx
+XA,Enrolment,Primary,2025,Male,262270.0,False,template_XA.xlsx
+XA,Enrolment,Lower secondary,2025,Male,122050.0,False,template_XA.xlsx
+XA,Enrolment,Upper secondary,2025,Male,80461.0,False,template_XA.xlsx
+XA,Enrolment,Pre-primary,2026,Male,58816.0,False,template_XA.xlsx
+XA,Enrolment,Primary,2026,Male,260896.0,False,template_XA.xlsx
+XA,Enrolment,Lower secondary,2026,Male,115632.0,False,template_XA.xlsx
+XA,Enrolment,Upper secondary,2026,Male,72537.0,False,template_XA.xlsx
+XA,Enrolment,Pre-primary,2025,Total,103369.0,False,template_XA.xlsx
+XA,Enrolment,Primary,2025,Total,501628.0,False,template_XA.xlsx
+XA,Enrolment,Lower secondary,2025,Total,231451.0,False,template_XA.xlsx
+XA,Enrolment,Upper secondary,2025,Total,157841.0,False,template_XA.xlsx
+XA,Enrolment,Pre-primary,2026,Total,114411.0,False,template_XA.xlsx
+XA,Enrolment,Primary,2026,Total,523391.0,False,template_XA.xlsx
+XA,Enrolment,Lower secondary,2026,Total,231747.0,False,template_XA.xlsx
+XA,Enrolment,Upper secondary,2026,Total,145213.0,False,template_XA.xlsx
+XA,Teachers,Pre-primary,2025,Female,2306.0,False,template_XA.xlsx
+XA,Teachers,Primary,2025,Female,8757.0,False,template_XA.xlsx
+XA,Teachers,Lower secondary,2025,Female,6953.0,False,template_XA.xlsx
+XA,Teachers,Upper secondary,2025,Female,4438.0,False,template_XA.xlsx
+XA,Teachers,Pre-primary,2026,Female,2213.0,False,template_XA.xlsx
+XA,Teachers,Primary,2026,Female,9228.0,False,template_XA.xlsx
+XA,Teachers,Lower secondary,2026,Female,5782.0,False,template_XA.xlsx
+XA,Teachers,Upper secondary,2026,Female,3877.0,False,template_XA.xlsx
+XA,Teachers,Pre-primary,2025,Male,1704.0,False,template_XA.xlsx
+XA,Teachers,Primary,2025,Male,8489.0,False,template_XA.xlsx
+XA,Teachers,Lower secondary,2025,Male,3912.0,False,template_XA.xlsx
+XA,Teachers,Upper secondary,2025,Male,4783.0,False,template_XA.xlsx
+XA,Teachers,Pre-primary,2026,Male,1992.0,False,template_XA.xlsx
+XA,Teachers,Primary,2026,Male,6883.0,False,template_XA.xlsx
+XA,Teachers,Lower secondary,2026,Male,5445.0,False,template_XA.xlsx
+XA,Teachers,Upper secondary,2026,Male,3477.0,False,template_XA.xlsx
+XA,Teachers,Pre-primary,2025,Total,4010.0,False,template_XA.xlsx
+XA,Teachers,Primary,2025,Total,17246.0,False,template_XA.xlsx
+XA,Teachers,Lower secondary,2025,Total,10865.0,False,template_XA.xlsx
+XA,Teachers,Upper secondary,2025,Total,9221.0,False,template_XA.xlsx
+XA,Teachers,Pre-primary,2026,Total,4205.0,False,template_XA.xlsx
+XA,Teachers,Primary,2026,Total,16111.0,False,template_XA.xlsx
+XA,Teachers,Lower secondary,2026,Total,11227.0,False,template_XA.xlsx
+XA,Teachers,Upper secondary,2026,Total,7354.0,False,template_XA.xlsx
+XA,Population,Pre-primary,2025,Female,96134.0,False,template_XA.xlsx
+XA,Population,Primary,2025,Female,253379.0,False,template_XA.xlsx
+XA,Population,Lower secondary,2025,Female,139812.0,False,template_XA.xlsx
+XA,Population,Upper secondary,2025,Female,126950.0,False,template_XA.xlsx
+XA,Population,Pre-primary,2026,Female,98555.0,False,template_XA.xlsx
+XA,Population,Primary,2026,Female,262532.0,False,template_XA.xlsx
+XA,Population,Lower secondary,2026,Female,137094.0,False,template_XA.xlsx
+XA,Population,Upper secondary,2026,Female,123555.0,False,template_XA.xlsx
+XA,Population,Pre-primary,2025,Male,100058.0,False,template_XA.xlsx
+XA,Population,Primary,2025,Male,263721.0,False,template_XA.xlsx
+XA,Population,Lower secondary,2025,Male,145518.0,False,template_XA.xlsx
+XA,Population,Upper secondary,2025,Male,132132.0,False,template_XA.xlsx
+XA,Population,Pre-primary,2026,Male,102577.0,False,template_XA.xlsx
+XA,Population,Primary,2026,Male,273247.0,False,template_XA.xlsx
+XA,Population,Lower secondary,2026,Male,142689.0,False,template_XA.xlsx
+XA,Population,Upper secondary,2026,Male,128598.0,False,template_XA.xlsx
+XA,Population,Pre-primary,2025,Total,196192.0,False,template_XA.xlsx
+XA,Population,Primary,2025,Total,517100.0,False,template_XA.xlsx
+XA,Population,Lower secondary,2025,Total,285330.0,False,template_XA.xlsx
+XA,Population,Upper secondary,2025,Total,259082.0,False,template_XA.xlsx
+XA,Population,Pre-primary,2026,Total,201132.0,False,template_XA.xlsx
+XA,Population,Primary,2026,Total,535779.0,False,template_XA.xlsx
+XA,Population,Lower secondary,2026,Total,279783.0,False,template_XA.xlsx
+XA,Population,Upper secondary,2026,Total,252153.0,False,template_XA.xlsx
+XB,Enrolment,Pre-primary,2025,Female,48849.0,False,template_XB.xlsx
+XB,Enrolment,Primary,2025,Female,226458.0,False,template_XB.xlsx
+XB,Enrolment,Lower secondary,2025,Female,99568.0,False,template_XB.xlsx
+XB,Enrolment,Upper secondary,2025,Female,67995.0,False,template_XB.xlsx
+XB,Enrolment,Pre-primary,2026,Female,50273.0,False,template_XB.xlsx
+XB,Enrolment,Primary,2026,Female,233177.0,True,template_XB.xlsx
+XB,Enrolment,Lower secondary,2026,Female,97189.0,False,template_XB.xlsx
+XB,Enrolment,Upper secondary,2026,Female,70271.0,False,template_XB.xlsx
+XB,Enrolment,Pre-primary,2025,Male,48437.0,False,template_XB.xlsx
+XB,Enrolment,Primary,2025,Male,246124.0,False,template_XB.xlsx
+XB,Enrolment,Lower secondary,2025,Male,110666.0,False,template_XB.xlsx
+XB,Enrolment,Upper secondary,2025,Male,76504.0,False,template_XB.xlsx
+XB,Enrolment,Pre-primary,2026,Male,52313.0,False,template_XB.xlsx
+XB,Enrolment,Primary,2026,Male,255232.0,True,template_XB.xlsx
+XB,Enrolment,Lower secondary,2026,Male,105121.0,False,template_XB.xlsx
+XB,Enrolment,Upper secondary,2026,Male,71283.0,False,template_XB.xlsx
+XB,Enrolment,Pre-primary,2025,Total,97286.0,False,template_XB.xlsx
+XB,Enrolment,Primary,2025,Total,472582.0,False,template_XB.xlsx
+XB,Enrolment,Lower secondary,2025,Total,210234.0,False,template_XB.xlsx
+XB,Enrolment,Upper secondary,2025,Total,144499.0,False,template_XB.xlsx
+XB,Enrolment,Pre-primary,2026,Total,102586.0,False,template_XB.xlsx
+XB,Enrolment,Primary,2026,Total,999999.0,True,template_XB.xlsx
+XB,Enrolment,Lower secondary,2026,Total,202310.0,False,template_XB.xlsx
+XB,Enrolment,Upper secondary,2026,Total,141554.0,False,template_XB.xlsx
+XB,Teachers,Pre-primary,2025,Female,2436.0,False,template_XB.xlsx
+XB,Teachers,Primary,2025,Female,7881.0,False,template_XB.xlsx
+XB,Teachers,Lower secondary,2025,Female,4348.0,False,template_XB.xlsx
+XB,Teachers,Upper secondary,2025,Female,3781.0,False,template_XB.xlsx
+XB,Teachers,Pre-primary,2026,Female,2515.0,False,template_XB.xlsx
+XB,Teachers,Primary,2026,Female,9098.0,False,template_XB.xlsx
+XB,Teachers,Lower secondary,2026,Female,5109.0,False,template_XB.xlsx
+XB,Teachers,Upper secondary,2026,Female,4013.0,False,template_XB.xlsx
+XB,Teachers,Pre-primary,2025,Male,1819.0,False,template_XB.xlsx
+XB,Teachers,Primary,2025,Male,9361.0,False,template_XB.xlsx
+XB,Teachers,Lower secondary,2025,Male,5195.0,False,template_XB.xlsx
+XB,Teachers,Upper secondary,2025,Male,4517.0,False,template_XB.xlsx
+XB,Teachers,Pre-primary,2026,Male,1578.0,False,template_XB.xlsx
+XB,Teachers,Primary,2026,Male,7581.0,False,template_XB.xlsx
+XB,Teachers,Lower secondary,2026,Male,3733.0,False,template_XB.xlsx
+XB,Teachers,Upper secondary,2026,Male,4075.0,False,template_XB.xlsx
+XB,Teachers,Pre-primary,2025,Total,4255.0,False,template_XB.xlsx
+XB,Teachers,Primary,2025,Total,17242.0,False,template_XB.xlsx
+XB,Teachers,Lower secondary,2025,Total,9543.0,False,template_XB.xlsx
+XB,Teachers,Upper secondary,2025,Total,8298.0,False,template_XB.xlsx
+XB,Teachers,Pre-primary,2026,Total,4093.0,False,template_XB.xlsx
+XB,Teachers,Primary,2026,Total,16679.0,False,template_XB.xlsx
+XB,Teachers,Lower secondary,2026,Total,8842.0,False,template_XB.xlsx
+XB,Teachers,Upper secondary,2026,Total,8088.0,False,template_XB.xlsx
+XB,Population,Pre-primary,2025,Female,88687.0,False,template_XB.xlsx
+XB,Population,Primary,2025,Female,236225.0,False,template_XB.xlsx
+XB,Population,Lower secondary,2025,Female,127113.0,False,template_XB.xlsx
+XB,Population,Upper secondary,2025,Female,116723.0,False,template_XB.xlsx
+XB,Population,Pre-primary,2026,Female,90180.0,False,template_XB.xlsx
+XB,Population,Primary,2026,Female,236546.0,False,template_XB.xlsx
+XB,Population,Lower secondary,2026,Female,130090.0,False,template_XB.xlsx
+XB,Population,Upper secondary,2026,Female,119764.0,False,template_XB.xlsx
+XB,Population,Pre-primary,2025,Male,92307.0,False,template_XB.xlsx
+XB,Population,Primary,2025,Male,245867.0,False,template_XB.xlsx
+XB,Population,Lower secondary,2025,Male,132301.0,False,template_XB.xlsx
+XB,Population,Upper secondary,2025,Male,121488.0,False,template_XB.xlsx
+XB,Population,Pre-primary,2026,Male,93861.0,False,template_XB.xlsx
+XB,Population,Primary,2026,Male,246201.0,False,template_XB.xlsx
+XB,Population,Lower secondary,2026,Male,135399.0,False,template_XB.xlsx
+XB,Population,Upper secondary,2026,Male,124652.0,False,template_XB.xlsx
+XB,Population,Pre-primary,2025,Total,180994.0,False,template_XB.xlsx
+XB,Population,Primary,2025,Total,482092.0,False,template_XB.xlsx
+XB,Population,Lower secondary,2025,Total,259414.0,False,template_XB.xlsx
+XB,Population,Upper secondary,2025,Total,238211.0,False,template_XB.xlsx
+XB,Population,Pre-primary,2026,Total,184041.0,False,template_XB.xlsx
+XB,Population,Primary,2026,Total,482747.0,False,template_XB.xlsx
+XB,Population,Lower secondary,2026,Total,265489.0,False,template_XB.xlsx
+XB,Population,Upper secondary,2026,Total,244416.0,False,template_XB.xlsx
+XC,Enrolment,Pre-primary,2025,Female,46291.0,False,template_XC.xlsx
+XC,Enrolment,Primary,2025,Female,251730.0,False,template_XC.xlsx
+XC,Enrolment,Lower secondary,2025,Female,107104.0,False,template_XC.xlsx
+XC,Enrolment,Upper secondary,2025,Female,72316.0,False,template_XC.xlsx
+XC,Enrolment,Pre-primary,2026,Female,48477.0,False,template_XC.xlsx
+XC,Enrolment,Primary,2026,Female,229382.0,False,template_XC.xlsx
+XC,Enrolment,Lower secondary,2026,Female,102427.0,False,template_XC.xlsx
+XC,Enrolment,Upper secondary,2026,Female,73576.0,True,template_XC.xlsx
+XC,Enrolment,Pre-primary,2025,Male,48615.0,False,template_XC.xlsx
+XC,Enrolment,Primary,2025,Male,243908.0,False,template_XC.xlsx
+XC,Enrolment,Lower secondary,2025,Male,105115.0,False,template_XC.xlsx
+XC,Enrolment,Upper secondary,2025,Male,71051.0,False,template_XC.xlsx
+XC,Enrolment,Pre-primary,2026,Male,49789.0,False,template_XC.xlsx
+XC,Enrolment,Primary,2026,Male,226055.0,False,template_XC.xlsx
+XC,Enrolment,Lower secondary,2026,Male,102243.0,False,template_XC.xlsx
+XC,Enrolment,Upper secondary,2026,Male,,True,template_XC.xlsx
+XC,Enrolment,Pre-primary,2025,Total,94906.0,False,template_XC.xlsx
+XC,Enrolment,Primary,2025,Total,495638.0,False,template_XC.xlsx
+XC,Enrolment,Lower secondary,2025,Total,212219.0,False,template_XC.xlsx
+XC,Enrolment,Upper secondary,2025,Total,143367.0,False,template_XC.xlsx
+XC,Enrolment,Pre-primary,2026,Total,98266.0,False,template_XC.xlsx
+XC,Enrolment,Primary,2026,Total,455437.0,False,template_XC.xlsx
+XC,Enrolment,Lower secondary,2026,Total,204670.0,False,template_XC.xlsx
+XC,Enrolment,Upper secondary,2026,Total,145726.0,True,template_XC.xlsx
+XC,Teachers,Pre-primary,2025,Female,2367.0,False,template_XC.xlsx
+XC,Teachers,Primary,2025,Female,8353.0,False,template_XC.xlsx
+XC,Teachers,Lower secondary,2025,Female,5601.0,False,template_XC.xlsx
+XC,Teachers,Upper secondary,2025,Female,3585.0,False,template_XC.xlsx
+XC,Teachers,Pre-primary,2026,Female,2315.0,False,template_XC.xlsx
+XC,Teachers,Primary,2026,Female,7487.0,False,template_XC.xlsx
+XC,Teachers,Lower secondary,2026,Female,,True,template_XC.xlsx
+XC,Teachers,Upper secondary,2026,Female,4681.0,False,template_XC.xlsx
+XC,Teachers,Pre-primary,2025,Male,1306.0,False,template_XC.xlsx
+XC,Teachers,Primary,2025,Male,8409.0,False,template_XC.xlsx
+XC,Teachers,Lower secondary,2025,Male,3758.0,False,template_XC.xlsx
+XC,Teachers,Upper secondary,2025,Male,3881.0,False,template_XC.xlsx
+XC,Teachers,Pre-primary,2026,Male,1730.0,False,template_XC.xlsx
+XC,Teachers,Primary,2026,Male,8425.0,False,template_XC.xlsx
+XC,Teachers,Lower secondary,2026,Male,4891.0,True,template_XC.xlsx
+XC,Teachers,Upper secondary,2026,Male,3734.0,False,template_XC.xlsx
+XC,Teachers,Pre-primary,2025,Total,3673.0,False,template_XC.xlsx
+XC,Teachers,Primary,2025,Total,16762.0,False,template_XC.xlsx
+XC,Teachers,Lower secondary,2025,Total,9359.0,False,template_XC.xlsx
+XC,Teachers,Upper secondary,2025,Total,7466.0,False,template_XC.xlsx
+XC,Teachers,Pre-primary,2026,Total,4045.0,False,template_XC.xlsx
+XC,Teachers,Primary,2026,Total,15912.0,False,template_XC.xlsx
+XC,Teachers,Lower secondary,2026,Total,9367.0,True,template_XC.xlsx
+XC,Teachers,Upper secondary,2026,Total,8415.0,False,template_XC.xlsx
+XC,Population,Pre-primary,2025,Female,85161.0,False,template_XC.xlsx
+XC,Population,Primary,2025,Female,242710.0,False,template_XC.xlsx
+XC,Population,Lower secondary,2025,Female,131147.0,False,template_XC.xlsx
+XC,Population,Upper secondary,2025,Female,115314.0,False,template_XC.xlsx
+XC,Population,Pre-primary,2026,Female,90205.0,False,template_XC.xlsx
+XC,Population,Primary,2026,Female,232541.0,False,template_XC.xlsx
+XC,Population,Lower secondary,2026,Female,130769.0,False,template_XC.xlsx
+XC,Population,Upper secondary,2026,Female,118030.0,False,template_XC.xlsx
+XC,Population,Pre-primary,2025,Male,88637.0,False,template_XC.xlsx
+XC,Population,Primary,2025,Male,252617.0,False,template_XC.xlsx
+XC,Population,Lower secondary,2025,Male,136500.0,False,template_XC.xlsx
+XC,Population,Upper secondary,2025,Male,120020.0,False,template_XC.xlsx
+XC,Population,Pre-primary,2026,Male,93886.0,False,template_XC.xlsx
+XC,Population,Primary,2026,Male,242033.0,False,template_XC.xlsx
+XC,Population,Lower secondary,2026,Male,136106.0,False,template_XC.xlsx
+XC,Population,Upper secondary,2026,Male,122847.0,False,template_XC.xlsx
+XC,Population,Pre-primary,2025,Total,173798.0,False,template_XC.xlsx
+XC,Population,Primary,2025,Total,495327.0,False,template_XC.xlsx
+XC,Population,Lower secondary,2025,Total,267647.0,False,template_XC.xlsx
+XC,Population,Upper secondary,2025,Total,235334.0,False,template_XC.xlsx
+XC,Population,Pre-primary,2026,Total,184091.0,False,template_XC.xlsx
+XC,Population,Primary,2026,Total,474574.0,False,template_XC.xlsx
+XC,Population,Lower secondary,2026,Total,266875.0,False,template_XC.xlsx
+XC,Population,Upper secondary,2026,Total,240877.0,False,template_XC.xlsx
+XD,Enrolment,Pre-primary,2025,Female,56250.0,False,template_XD.xlsx
+XD,Enrolment,Primary,2025,Female,258880.0,False,template_XD.xlsx
+XD,Enrolment,Lower secondary,2025,Female,117655.0,False,template_XD.xlsx
+XD,Enrolment,Upper secondary,2025,Female,71199.0,False,template_XD.xlsx
+XD,Enrolment,Pre-primary,2026,Female,51140.0,False,template_XD.xlsx
+XD,Enrolment,Primary,2026,Female,250154.0,False,template_XD.xlsx
+XD,Enrolment,Lower secondary,2026,Female,115743.0,False,template_XD.xlsx
+XD,Enrolment,Upper secondary,2026,Female,84536.0,False,template_XD.xlsx
+XD,Enrolment,Pre-primary,2025,Male,55106.0,False,template_XD.xlsx
+XD,Enrolment,Primary,2025,Male,282957.0,False,template_XD.xlsx
+XD,Enrolment,Lower secondary,2025,Male,124088.0,False,template_XD.xlsx
+XD,Enrolment,Upper secondary,2025,Male,74813.0,False,template_XD.xlsx
+XD,Enrolment,Pre-primary,2026,Male,55763.0,False,template_XD.xlsx
+XD,Enrolment,Primary,2026,Male,261436.0,False,template_XD.xlsx
+XD,Enrolment,Lower secondary,2026,Male,125507.0,False,template_XD.xlsx
+XD,Enrolment,Upper secondary,2026,Male,88636.0,False,template_XD.xlsx
+XD,Enrolment,Pre-primary,2025,Total,111356.0,False,template_XD.xlsx
+XD,Enrolment,Primary,2025,Total,541837.0,False,template_XD.xlsx
+XD,Enrolment,Lower secondary,2025,Total,241743.0,False,template_XD.xlsx
+XD,Enrolment,Upper secondary,2025,Total,146012.0,False,template_XD.xlsx
+XD,Enrolment,Pre-primary,2026,Total,106903.0,False,template_XD.xlsx
+XD,Enrolment,Primary,2026,Total,511590.0,False,template_XD.xlsx
+XD,Enrolment,Lower secondary,2026,Total,241250.0,False,template_XD.xlsx
+XD,Enrolment,Upper secondary,2026,Total,173172.0,False,template_XD.xlsx
+XD,Teachers,Pre-primary,2025,Female,2779.0,False,template_XD.xlsx
+XD,Teachers,Primary,2025,Female,8764.0,False,template_XD.xlsx
+XD,Teachers,Lower secondary,2025,Female,6730.0,False,template_XD.xlsx
+XD,Teachers,Upper secondary,2025,Female,5323.0,False,template_XD.xlsx
+XD,Teachers,Pre-primary,2026,Female,2182.0,False,template_XD.xlsx
+XD,Teachers,Primary,2026,Female,1973.0,False,template_XD.xlsx
+XD,Teachers,Lower secondary,2026,Female,7338.0,False,template_XD.xlsx
+XD,Teachers,Upper secondary,2026,Female,4293.0,False,template_XD.xlsx
+XD,Teachers,Pre-primary,2025,Male,1750.0,False,template_XD.xlsx
+XD,Teachers,Primary,2025,Male,10000.0,False,template_XD.xlsx
+XD,Teachers,Lower secondary,2025,Male,4640.0,False,template_XD.xlsx
+XD,Teachers,Upper secondary,2025,Male,3664.0,False,template_XD.xlsx
+XD,Teachers,Pre-primary,2026,Male,2286.0,False,template_XD.xlsx
+XD,Teachers,Primary,2026,Male,2145.0,False,template_XD.xlsx
+XD,Teachers,Lower secondary,2026,Male,4640.0,False,template_XD.xlsx
+XD,Teachers,Upper secondary,2026,Male,4679.0,False,template_XD.xlsx
+XD,Teachers,Pre-primary,2025,Total,4529.0,False,template_XD.xlsx
+XD,Teachers,Primary,2025,Total,18764.0,False,template_XD.xlsx
+XD,Teachers,Lower secondary,2025,Total,11370.0,False,template_XD.xlsx
+XD,Teachers,Upper secondary,2025,Total,8987.0,False,template_XD.xlsx
+XD,Teachers,Pre-primary,2026,Total,4468.0,False,template_XD.xlsx
+XD,Teachers,Primary,2026,Total,4118.0,False,template_XD.xlsx
+XD,Teachers,Lower secondary,2026,Total,11978.0,False,template_XD.xlsx
+XD,Teachers,Upper secondary,2026,Total,8972.0,False,template_XD.xlsx
+XD,Population,Pre-primary,2025,Female,98746.0,False,template_XD.xlsx
+XD,Population,Primary,2025,Female,270088.0,False,template_XD.xlsx
+XD,Population,Lower secondary,2025,Female,141042.0,False,template_XD.xlsx
+XD,Population,Upper secondary,2025,Female,124902.0,False,template_XD.xlsx
+XD,Population,Pre-primary,2026,Female,98453.0,False,template_XD.xlsx
+XD,Population,Primary,2026,Female,260105.0,False,template_XD.xlsx
+XD,Population,Lower secondary,2026,Female,153464.0,False,template_XD.xlsx
+XD,Population,Upper secondary,2026,Female,135397.0,False,template_XD.xlsx
+XD,Population,Pre-primary,2025,Male,102777.0,False,template_XD.xlsx
+XD,Population,Primary,2025,Male,281112.0,False,template_XD.xlsx
+XD,Population,Lower secondary,2025,Male,146799.0,False,template_XD.xlsx
+XD,Population,Upper secondary,2025,Male,130001.0,False,template_XD.xlsx
+XD,Population,Pre-primary,2026,Male,102471.0,False,template_XD.xlsx
+XD,Population,Primary,2026,Male,270721.0,False,template_XD.xlsx
+XD,Population,Lower secondary,2026,Male,159728.0,False,template_XD.xlsx
+XD,Population,Upper secondary,2026,Male,140924.0,False,template_XD.xlsx
+XD,Population,Pre-primary,2025,Total,201523.0,False,template_XD.xlsx
+XD,Population,Primary,2025,Total,551200.0,False,template_XD.xlsx
+XD,Population,Lower secondary,2025,Total,287841.0,False,template_XD.xlsx
+XD,Population,Upper secondary,2025,Total,254903.0,False,template_XD.xlsx
+XD,Population,Pre-primary,2026,Total,200924.0,False,template_XD.xlsx
+XD,Population,Primary,2026,Total,530826.0,False,template_XD.xlsx
+XD,Population,Lower secondary,2026,Total,313192.0,False,template_XD.xlsx
+XD,Population,Upper secondary,2026,Total,276321.0,False,template_XD.xlsx
+XE,Enrolment,Pre-primary,2025,Female,113209.0,False,template_XE.xlsx
+XE,Enrolment,Primary,2025,Female,531948.0,False,template_XE.xlsx
+XE,Enrolment,Lower secondary,2025,Female,231527.0,False,template_XE.xlsx
+XE,Enrolment,Upper secondary,2025,Female,161311.0,False,template_XE.xlsx
+XE,Enrolment,Pre-primary,2026,Female,108041.0,False,template_XE.xlsx
+XE,Enrolment,Primary,2026,Female,569833.0,False,template_XE.xlsx
+XE,Enrolment,Lower secondary,2026,Female,255880.0,False,template_XE.xlsx
+XE,Enrolment,Upper secondary,2026,Female,169753.0,False,template_XE.xlsx
+XE,Enrolment,Pre-primary,2025,Male,113974.0,False,template_XE.xlsx
+XE,Enrolment,Primary,2025,Male,513667.0,False,template_XE.xlsx
+XE,Enrolment,Lower secondary,2025,Male,232320.0,False,template_XE.xlsx
+XE,Enrolment,Upper secondary,2025,Male,176341.0,False,template_XE.xlsx
+XE,Enrolment,Pre-primary,2026,Male,116948.0,False,template_XE.xlsx
+XE,Enrolment,Primary,2026,Male,578938.0,False,template_XE.xlsx
+XE,Enrolment,Lower secondary,2026,Male,249958.0,False,template_XE.xlsx
+XE,Enrolment,Upper secondary,2026,Male,168309.0,False,template_XE.xlsx
+XE,Enrolment,Pre-primary,2025,Total,227183.0,False,template_XE.xlsx
+XE,Enrolment,Primary,2025,Total,1045615.0,False,template_XE.xlsx
+XE,Enrolment,Lower secondary,2025,Total,463847.0,False,template_XE.xlsx
+XE,Enrolment,Upper secondary,2025,Total,337652.0,False,template_XE.xlsx
+XE,Enrolment,Pre-primary,2026,Total,224989.0,False,template_XE.xlsx
+XE,Enrolment,Primary,2026,Total,1148771.0,False,template_XE.xlsx
+XE,Enrolment,Lower secondary,2026,Total,505838.0,False,template_XE.xlsx
+XE,Enrolment,Upper secondary,2026,Total,338062.0,False,template_XE.xlsx
+XE,Teachers,Pre-primary,2025,Female,5568.0,False,template_XE.xlsx
+XE,Teachers,Primary,2025,Female,21498.0,False,template_XE.xlsx
+XE,Teachers,Lower secondary,2025,Female,12726.0,False,template_XE.xlsx
+XE,Teachers,Upper secondary,2025,Female,10874.0,False,template_XE.xlsx
+XE,Teachers,Pre-primary,2026,Female,5064.0,False,template_XE.xlsx
+XE,Teachers,Primary,2026,Female,20439.0,False,template_XE.xlsx
+XE,Teachers,Lower secondary,2026,Female,10337.0,False,template_XE.xlsx
+XE,Teachers,Upper secondary,2026,Female,10098.0,False,template_XE.xlsx
+XE,Teachers,Pre-primary,2025,Male,4324.0,False,template_XE.xlsx
+XE,Teachers,Primary,2025,Male,16656.0,False,template_XE.xlsx
+XE,Teachers,Lower secondary,2025,Male,9854.0,False,template_XE.xlsx
+XE,Teachers,Upper secondary,2025,Male,9738.0,False,template_XE.xlsx
+XE,Teachers,Pre-primary,2026,Male,4381.0,False,template_XE.xlsx
+XE,Teachers,Primary,2026,Male,19722.0,False,template_XE.xlsx
+XE,Teachers,Lower secondary,2026,Male,12060.0,False,template_XE.xlsx
+XE,Teachers,Upper secondary,2026,Male,8170.0,False,template_XE.xlsx
+XE,Teachers,Pre-primary,2025,Total,9892.0,False,template_XE.xlsx
+XE,Teachers,Primary,2025,Total,38154.0,False,template_XE.xlsx
+XE,Teachers,Lower secondary,2025,Total,22580.0,False,template_XE.xlsx
+XE,Teachers,Upper secondary,2025,Total,20612.0,False,template_XE.xlsx
+XE,Teachers,Pre-primary,2026,Total,9445.0,False,template_XE.xlsx
+XE,Teachers,Primary,2026,Total,40161.0,False,template_XE.xlsx
+XE,Teachers,Lower secondary,2026,Total,22397.0,False,template_XE.xlsx
+XE,Teachers,Upper secondary,2026,Total,18268.0,False,template_XE.xlsx
+XE,Population,Pre-primary,2025,Female,199445.0,False,template_XE.xlsx
+XE,Population,Primary,2025,Female,521883.0,False,template_XE.xlsx
+XE,Population,Lower secondary,2025,Female,298521.0,False,template_XE.xlsx
+XE,Population,Upper secondary,2025,Female,264988.0,False,template_XE.xlsx
+XE,Population,Pre-primary,2026,Female,-500.0,True,template_XE.xlsx
+XE,Population,Primary,2026,Female,568393.0,False,template_XE.xlsx
+XE,Population,Lower secondary,2026,Female,298284.0,False,template_XE.xlsx
+XE,Population,Upper secondary,2026,Female,285464.0,False,template_XE.xlsx
+XE,Population,Pre-primary,2025,Male,207586.0,False,template_XE.xlsx
+XE,Population,Primary,2025,Male,543184.0,False,template_XE.xlsx
+XE,Population,Lower secondary,2025,Male,310706.0,False,template_XE.xlsx
+XE,Population,Upper secondary,2025,Male,275804.0,False,template_XE.xlsx
+XE,Population,Pre-primary,2026,Male,206922.0,True,template_XE.xlsx
+XE,Population,Primary,2026,Male,591592.0,False,template_XE.xlsx
+XE,Population,Lower secondary,2026,Male,310458.0,False,template_XE.xlsx
+XE,Population,Upper secondary,2026,Male,297115.0,False,template_XE.xlsx
+XE,Population,Pre-primary,2025,Total,407031.0,False,template_XE.xlsx
+XE,Population,Primary,2025,Total,1065067.0,False,template_XE.xlsx
+XE,Population,Lower secondary,2025,Total,609227.0,False,template_XE.xlsx
+XE,Population,Upper secondary,2025,Total,540792.0,False,template_XE.xlsx
+XE,Population,Pre-primary,2026,Total,405730.0,True,template_XE.xlsx
+XE,Population,Primary,2026,Total,1159985.0,False,template_XE.xlsx
+XE,Population,Lower secondary,2026,Total,608742.0,False,template_XE.xlsx
+XE,Population,Upper secondary,2026,Total,582579.0,False,template_XE.xlsx

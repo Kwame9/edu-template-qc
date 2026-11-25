@@ -1,0 +1,12 @@
+country_code,source_file,sheet,excel_row,level,year,check,severity,message,value
+XA,template_XA.xlsx,Teachers,9,Upper secondary,2026,year_on_year_change,warning,Total changed by -20% from 2025,7354
+XB,template_XB.xlsx,Enrolment,7,Primary,2026,total_mismatch,error,"Female + Male = 488,409 but Total = 999,999",999999
+XB,template_XB.xlsx,Metadata,,,,metadata_missing,error,Metadata field 'Respondent' is empty,
+XB,,Calculated indicators,,Primary,2026,ger_out_of_range,warning,"Gross enrolment ratio is 207.2%, above 150%",207.15
+XB,template_XB.xlsx,Enrolment,7,Primary,2026,year_on_year_change,warning,Total changed by +112% from 2025,999999
+XC,template_XC.xlsx,Enrolment,9,Upper secondary,2026,missing_value,error,Male is empty,
+XC,template_XC.xlsx,Teachers,8,Lower secondary,2026,not_numeric,error,Female is not a number,n/a
+XD,,Calculated indicators,,Primary,2026,ptr_out_of_range,warning,"Pupil-teacher ratio is 124.2, outside 5-100",124.23
+XD,template_XD.xlsx,Teachers,7,Primary,2026,year_on_year_change,warning,Total changed by -78% from 2025,4118
+XE,template_XE.xlsx,Population,6,Pre-primary,2026,negative_value,error,Female is negative,-500
+XE,template_XE.xlsx,Population,6,Pre-primary,2026,total_mismatch,error,"Female + Male = 206,422 but Total = 405,730",405730
